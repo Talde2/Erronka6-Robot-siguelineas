@@ -1,0 +1,87 @@
+1. Electrónica Analogica / Digital
+
+¿Qué es la electrónica digital?
+
+En primer lugar debemos preguntarnos qué es la electrónica digital y cómo nos afecta en el día a día. Si echamos un vistazo alrededor podremos ver que casi toda la tecnología que nos rodea está basada en la electrónica digital.  Los avances alcanzados en el campo de la electrónica digital han permitido el desarrollo y la fabricación masiva, a bajo costo, de toda una generación de aparatos y sistemas inteligentes de uso doméstico, comercial, industrial, automotriz, científico, médico, etc.
+
+¿Pero qué es realmente?
+
+	Para poder responder esta pregunta, antes sería recomendable recordar que es la electrónica analogica. En la electrónica analógica trabajamos con señales analógicas, corrientes y tensiones eléctricas que varían continuamente de valor en el tiempo. Es decir, 	son señales que toman infinitos valores en el tiempo.
+
+Se pueden representar en una corriente alterna por ejemplo:
+  
+Donde la tensión  varía su estado en el transcurso del tiempo, adquiriendo infinitos valores.
+
+
+
+
+
+O en una corriente continua donde los valores de tensión se mantienen iguales.
+
+
+
+
+
+Para hacernos una idea, veremos un ejemplo: ¿Alguna vez nos hemos preguntado cómo funciona un tocadiscos? Lo que obtenemos es una señal analógica, y de ella reproducimos el sonido.
+
+Todos sabemos que un tocadiscos se compone de un plato giratorio, un brazo, una aguja y una cápsula. Una vez el disco de vinilo se encuentra en el plato del tocadiscos, se hace girar a una velocidad constante, normalmente 33 ⅓ rpm durante un LP, o 45 rpm para los singles.
+
+Se baja el brazo para que la aguja y la cápsula toquen el vinilo y que empiece a funcionar el tocadiscos. Según el disco gira, la aguja recorre las diminutas ranuras de corte, haciendo que vibre. 
+
+
+Como la aguja vibra, también lo hace la cápsula que está al lado. La cápsula es un transductor, que crea una corriente eléctrica que cambia en función de las vibraciones de la aguja.
+
+De esta forma obtenemos una señal analógica que posteriormente podremos reproducir en un altavoz.
+
+En cambio, la electrónica digital es la parte de la electrónica que trabaja con señales digitales, es decir que trabaja con valores de corrientes y tensiones eléctricas que solo pueden poseer dos estados en el transcurso del tiempo.
+
+
+
+
+
+Como podemos comprobar en la anterior imagen, una corriente alterna pulsatoria puede ser una señal digital, ya que solo representa dos valores en el transcurso del tiempo. 1- Hay corriente (valor máximo)(HIGH)  0 - no hay corriente (valor mínimo)(LOW).
+
+Siguiendo con nuestro ejemplo, para poder obtener una señal digital de nuestro tocadiscos y después reproducirla, tendríamos primero que convertir esa señal analógica en una digital.
+
+Con un conversor A.D.C. podemos digitalizar esa señal y convertirla para que tenga valores finitos. En resumidas cuentas, consiste en muestrear esa señal analógica y escribirla en binario. De igual manera, con un D.A.C. reinvertimos esa señal digital en una analogica para poder reproducir nuestra señal. 
+
+¿Cuál es la principal diferencia entre ambas?
+
+	La principal diferencia es que la señal que obtenemos al final del proceso, antes de reproducirla, es diferente cuando utilizamos señales digitales. Podríamos mejorar esta señal, con un muestreo más rápido o suavizando la señal a reproducir, pero nunca va a ser igual que la señal analogica original.
+
+¿ Qué ventajas / desventajas tienen?
+
+	Para ver las ventajas y desventajas que existen entre las dos tipos de señales, haremos una pequeña comparativa:
+
+Atenuación:  Sabemos que a medida que una señal viaja por el aire o por un cable, esa misma señal se va perdiendo o debilitando. Este no es el problema, ya que con amplificadores podemos repetir esa señal logrando que pueda llegar más lejos. El problema es que en esa señal, hay ruido, y he aquí la diferencia. En la electrónica analógica, al repetir esa señal, incorporamos el ruido que esta llevaba de origen, haciendo que la señal que obtengamos se distorsione de la original.
+Por el contrario, en la electrónica digital, aunque haya ruido cuando repetimos la misma señal, esta se repara y genera una señal nueva idéntica a la original sin ruido alguno. 
+
+	
+
+ 
+
+
+
+
+Interferencias:  Al igual que con la atenuación y el ruido, en ambas señales hay interferencias. Estas crean picos que se cuelan en la señal, que al repetirse se reproducen de igual manera en analogica. Como hemos visto antes, en la electrónica digital, al repetir esa señal, se genera una nueva en la cual se borran las interferencias que hubiera de antes. 
+
+
+
+
+
+
+
+Copias:  En analogía, al copiar una y otra vez la señal original acababa degradándose, haciendo que la calidad se perdiese en cuantía. En cambio, en digital, las copias son iguales independientemente de cuántas veces se hagan.
+
+Almacenamiento:  en tema de almacenamiento, si pensamos en el espacio que pueden ocupar como objeto, está claro que la electrónica digital nos ofrece la posibilidad de guardar mucho más en menos espacio. Por el contrario, si pensamos en espacio como concepto, la gran suma de números que maneja la electrónica digital es mayor que el espacio que puede ocupar una señal analogica, siempre y cuando queramos que la señal sea lo más definida posible.
+
+Edición / Procesado:  en este aspecto, la electrónica digital tiene una clara ventaja respecto a la analógica. Es mucho más fácil editar las señales digitales que las analógicas.
+
+Obsolescencia:  es más difícil perder la información analógica que la digital.
+
+
+
+
+¿Cual es mejor?
+
+Ninguna de las dos es mejor, necesitamos las señales analógicas para poder crear señales digitales. La electrónica analogica nunca va a desaparecer y la digital nos brinda muchas más opciones.
